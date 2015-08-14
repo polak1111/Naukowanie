@@ -40,11 +40,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Matek\Kalkulator\Kalkulator.cs" />
     <Compile Include="Matek\Testy\MatekTests.cs" />
+    <Compile Include="Matek\Treningpierwszy\InterfaceMatek.cs" />
     <Compile Include="Matek\Treningpierwszy\TreningMatek.cs" />
     <Compile Include="Polak\Testy\PolakTests.cs" />
     <Compile Include="Polak\Treningpierwszy\TreningPolak.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Matek\Fabryka\Export\" />
+    <Folder Include="Matek\Fabryka\Księgowosc\" />
+    <Folder Include="Matek\Fabryka\Magazyn\" />
+    <Folder Include="Matek\Fabryka\Maszyny\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
