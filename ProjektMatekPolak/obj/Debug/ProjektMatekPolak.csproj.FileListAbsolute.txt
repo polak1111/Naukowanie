@@ -1,0 +1,4 @@
+G:\programowanie\sourcetree\PolakMatek\ProjektMatekPolak\bin\Debug\ProjektMatekPolak.dll
+G:\programowanie\sourcetree\PolakMatek\ProjektMatekPolak\bin\Debug\ProjektMatekPolak.pdb
+G:\programowanie\sourcetree\PolakMatek\ProjektMatekPolak\obj\Debug\ProjektMatekPolak.dll
+G:\programowanie\sourcetree\PolakMatek\ProjektMatekPolak\obj\Debug\ProjektMatekPolak.pdb
