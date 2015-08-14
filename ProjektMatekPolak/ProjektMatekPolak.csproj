@@ -42,7 +42,14 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Matek\Testy\MatekTests.cs" />
     <Compile Include="Matek\Treningpierwszy\TreningMatek.cs" />
+    <Compile Include="Polak\kalkulator\dodawanie.cs" />
+    <Compile Include="Polak\kalkulator\dzialania.cs" />
+    <Compile Include="Polak\kalkulator\dzielenie.cs" />
+    <Compile Include="Polak\kalkulator\kalkulator.cs" />
+    <Compile Include="Polak\kalkulator\mnozenie.cs" />
+    <Compile Include="Polak\kalkulator\odejmowanie.cs" />
     <Compile Include="Polak\Testy\PolakTests.cs" />
+    <Compile Include="Polak\Treningpierwszy\InterfacePolaka.cs" />
     <Compile Include="Polak\Treningpierwszy\TreningPolak.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

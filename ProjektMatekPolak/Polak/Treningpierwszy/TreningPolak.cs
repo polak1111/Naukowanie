@@ -1,7 +1,8 @@
 ﻿namespace ProjektMatekPolak.Polak.Treningpierwszy
 {
-    public class TreningPolak
+    public class TreningPolak 
     {
-         
+      
+        
     }
 }
