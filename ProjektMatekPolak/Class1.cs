@@ -6,5 +6,6 @@ namespace ProjektMatekPolak
 
     {
         //cos tu jest
+        // Polak to geeeeej
     }
 }
